@@ -27,7 +27,7 @@ const Home = () => {
     <IconContext.Provider value={{ size: "1rem" }}>
       <StyledHome id="home">
         <Name>Team MLcrats</Name>
-        <Title>A supply chain management project</Title>
+        <Title>Retail recommendation system for Micro Enterprises</Title>
         <p>
           We <span className="change-text"></span>{" "}
           <span className="responsive">Machine</span>
